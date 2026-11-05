@@ -1,2 +1,1 @@
-# cfao-byd-prospects
-Maquette de démonstration, données fictives
+Maquette de démonstration. Données fictives.
